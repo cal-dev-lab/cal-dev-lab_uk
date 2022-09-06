@@ -15,7 +15,7 @@ export default {
                 {
                     hid: "description",
                     name: "description",
-                    content: "Best place for dad jokes.",
+                    content: "Front End Developer based in Cannock, Staffordshire. Visit me today to learn more about me.",
                 }
             ],
             link: [
