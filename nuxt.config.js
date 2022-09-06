@@ -16,11 +16,6 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      // Dynamic canonical URL
-      {
-        rel: "canonical",
-        href: "https://cal-dev-lab.uk" + this.$route.path
-      }
     ]
   },
 
