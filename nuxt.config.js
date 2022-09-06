@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'cal-dev-lab_uk',
+    title: 'CDL Design',
     htmlAttrs: {
       lang: 'en'
     },
